@@ -73,9 +73,8 @@ If the goal is not met, contributors can claim a refund.
 
 # Output:
 
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/b66bb3e2-55c6-4c37-9dcf-c4e892040d9f" />
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/72b7159a-a229-47a1-a81a-f75c5d207bcf" />
 
-<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/2c382486-3273-4fe7-918b-7b16410be86c" />
 
 
 
